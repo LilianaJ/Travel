@@ -10,7 +10,7 @@ body {
 }
 
 .hero-image {
-  background-image: url("/images/0FEB9A47-785A-4872-A689-D25005C7BF13.png"), linear-gradient(#C38370, #C38370);
+  background-image: url("images/0FEB9A47-785A-4872-A689-D25005C7BF13.png"), linear-gradient(#C38370, #C38370);
   height: 500px;
   width: 100%;
   /* background-position: center; */
